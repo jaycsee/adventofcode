@@ -3,8 +3,8 @@ from puzzle import Puzzle
 # Do not run this file. Run it from ../solution.py
 
 
-
 given = """""".split("\n")
+
 
 class Solution(Puzzle):
     def __init__(self):
